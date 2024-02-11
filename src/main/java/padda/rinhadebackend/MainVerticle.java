@@ -26,7 +26,7 @@ public class MainVerticle extends AbstractVerticle {
 
   private void criaPessoa(RoutingContext routingContext){
     String limit, saldo_inicial;
-    String stack[];
+    String[] stack;
   }
 
 
